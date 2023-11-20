@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-#### 👨‍💻 About Me
-- 💻 Experienced front-end software engineer dedicated to creating accessible and user-friendly web experiences.
+
+- 💻 Front-end software engineer dedicated to creating accessible and user-friendly web experiences.
 - 🤔 Exploring new technologies and developing software solutions.
 - 🎓 Master degree in  Applied computing/Cloud
 computing.
