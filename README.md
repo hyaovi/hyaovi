@@ -2,10 +2,9 @@
 
 
 - 💻 Front-end software engineer dedicated to creating accessible and user-friendly web experiences.
-- 🤔 Exploring new technologies and developing software solutions.
-- 🎓 Master degree in  Applied computing/Cloud
-computing.
 - 💼 Working as the front-end at Devar/MyWebar
+- 🎓 Master degree in  Applied computing/Cloud computing.
+- 🤔 Exploring new technologies and developing software solutions.
 - 🌱 Learning more about life.
 
 ## 🚀 Technologies
